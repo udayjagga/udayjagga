@@ -30,11 +30,7 @@
    <img src = "https://github-readme-stats.vercel.app/api?username=udayjagga&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img alt="J Uday Bhaskar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayjagga&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
+  
 <br/>
 <br/>
 
