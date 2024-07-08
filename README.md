@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in **MGO (Macias Gini & O'Connell LLP)**
 
-- 🌱 I’m currently working as a **Data Analyat.**
+- 🌱 I’m currently working as a **Data Analyst.**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
