@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in **MGO (Macias Gini & O'Connell LLP)**
 
-- 🌱 I’m currently working as a **Senior Data Analyst.**
+- 🌱 I’m currently working as a **Senior Data Analyst** with **Big Data tools like Spark, ADF, ADL and Azure Databricks.**
 
 - 👯 I’m looking to collaborate on **Data Engineering Projects**
 
